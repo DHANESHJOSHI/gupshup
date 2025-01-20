@@ -48,9 +48,7 @@ GupShup is a video conferencing web application inspired by Google Meet. It allo
 - Share the room ID with participants to invite them to the meeting.
 - Enjoy video conferencing and chat functionality.
 
-## Screenshots
 
-_Include relevant screenshots or GIFs of your application here._
 
 ## Contribution
 
