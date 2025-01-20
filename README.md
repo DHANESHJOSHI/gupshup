@@ -77,13 +77,9 @@ Contributions are welcome! If you have suggestions or find issues, please open a
 
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any questions or feedback, feel free to contact me:
 
 - GitHub: [DHANESHJOSHI](https://github.com/DHANESHJOSHI)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [dhaneshjoshi1234@gmail.com](mailto:dhaneshjoshi1234@gmail.com)
